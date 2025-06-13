@@ -14,4 +14,4 @@ This project demonstrates CRUD (Create, Read, Update, Delete) API testing using 
 3. Run tests from `cypress/e2e/`
 
 ## Link to Pull Request
-[GitHub PR Link](https://github.com/your-username/your-repo-name/pull/1)
+(https://github.com/Tamgrant4/cypress-api-testing.git)
